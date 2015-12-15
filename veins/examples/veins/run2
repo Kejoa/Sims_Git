@@ -1,0 +1,8 @@
+#! /bin/sh
+./run -c density_10 -r 0 -u Cmdenv
+./run -c density_20 -r 0 -u Cmdenv
+./run -c density_30 -r 0 -u Cmdenv
+./run -c density_40 -r 0 -u Cmdenv
+./run -c density_50 -r 0 -u Cmdenv
+./run -c density_60 -r 0 -u Cmdenv
+
