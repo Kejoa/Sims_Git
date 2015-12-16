@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!-- debug config -->
-<launch>
-	<copy file="multilane.net.xml" />
-	<copy file="SUMOKrauss_test.rou.xml" />
-	<copy file="multilane.sumo.cfg" type="config" />
-</launch>
-
